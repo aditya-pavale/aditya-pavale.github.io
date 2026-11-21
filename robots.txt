@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aditya-pavale.github.io/sitemap.xml
