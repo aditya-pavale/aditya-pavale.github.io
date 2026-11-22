@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" role="img" aria-labelledby="t d"><title id="t">Four-step AI visibility method</title><desc id="d">Real questions, raw answers, fixed scoring and a repeat on a different day, connected left to right.</desc>
+<style>.bg{fill:#fbfaf7}.b{fill:#e9eefc;stroke:#2f5bd3;stroke-width:2}.n{fill:#2f5bd3;font:700 22px system-ui,sans-serif}.l{fill:#1d2330;font:600 20px system-ui,sans-serif}.s{fill:#5a6272;font:16px system-ui,sans-serif}.a{stroke:#2f5bd3;stroke-width:3;fill:none;marker-end:url(#m)}.h{fill:#2f5bd3}@media (prefers-color-scheme:dark){.bg{fill:#1a1e27}.b{fill:#232b42;stroke:#8fa9ff}.n{fill:#8fa9ff}.l{fill:#e8eaf0}.s{fill:#a3aab8}.a{stroke:#8fa9ff}.h{fill:#8fa9ff}}</style>
+<defs><marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path class="h" d="M0 0L10 5L0 10z"/></marker></defs>
+<rect class="bg" width="960" height="220"/>
+<g><rect class="b" x="20" y="45" width="200" height="130" rx="16"/><text class="n" x="44" y="85">1</text><text class="l" x="44" y="120">Real questions</text><text class="s" x="44" y="148">from recorded sources</text></g>
+<g><rect class="b" x="260" y="45" width="200" height="130" rx="16"/><text class="n" x="284" y="85">2</text><text class="l" x="284" y="120">Raw answers</text><text class="s" x="284" y="148">date, location, run</text></g>
+<g><rect class="b" x="500" y="45" width="200" height="130" rx="16"/><text class="n" x="524" y="85">3</text><text class="l" x="524" y="120">Fixed scoring</text><text class="s" x="524" y="148">cited, mentioned, not</text></g>
+<g><rect class="b" x="740" y="45" width="200" height="130" rx="16"/><text class="n" x="764" y="85">4</text><text class="l" x="764" y="120">Repeat</text><text class="s" x="764" y="148">on a different day</text></g>
+<path class="a" d="M222 110h34"/><path class="a" d="M462 110h34"/><path class="a" d="M702 110h34"/></svg>

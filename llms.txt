@@ -1,0 +1,16 @@
+# AI Visibility Method
+
+> A plain-language method for checking whether a brand appears in Google results and in AI assistant answers. Independent write-up by Aditya Pavale; no client data.
+
+## Pages
+
+- [AI visibility checking method](https://aditya-pavale.github.io/): A plain-language method for checking whether a brand appears in Google results and in AI assistant answers, with raw answers stored and checks repeated.
+- [How to measure AI visibility for a brand](https://aditya-pavale.github.io/measure-ai-visibility.html): Four steps to measure whether a brand appears in Google results and AI assistant answers: real questions, raw answers, fixed scoring and repeated checks.
+- [Mentioned versus cited in AI answers](https://aditya-pavale.github.io/mentioned-vs-cited.html): A brand is cited when its own web address appears among an assistant's sources, and mentioned when its name appears in the answer text without a source link.
+- [Why repeat AI answer checks on two different days](https://aditya-pavale.github.io/repeat-checks.html): AI assistants can give different answers to the same question, so a visibility check needs at least two runs on different calendar days.
+- [AI visibility checking: frequently asked questions](https://aditya-pavale.github.io/faq.html): Short answers on how to check a brand's visibility in AI assistant answers: questions, raw answers, scoring, repeat runs and limits.
+
+## Optional
+
+- [Sitemap](https://aditya-pavale.github.io/sitemap.xml)
+- [Author on GitHub](https://github.com/aditya-pavale)
